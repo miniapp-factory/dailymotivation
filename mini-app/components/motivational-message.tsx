@@ -10,7 +10,7 @@ export default function MotivationalMessage() {
       </CardHeader>
       <CardContent>
         <p className="text-lg">
-          Believe you can and you're halfway there.
+          Believe you can and you&apos;re halfway there.
         </p>
       </CardContent>
     </Card>
